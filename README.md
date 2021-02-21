@@ -1,1 +1,1 @@
-#steps to deploy a mail server
+# steps to deploy a mail server
